@@ -37,6 +37,7 @@ const replaceChar = (string, times) => {
         }
 
     }
+    
     return chars.join('');
 }
 
